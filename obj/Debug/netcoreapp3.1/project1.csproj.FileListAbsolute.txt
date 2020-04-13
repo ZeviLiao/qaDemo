@@ -1,0 +1,7 @@
+D:\Users\Zevi\labs\qaDemo\obj\Debug\netcoreapp3.1\project1.csprojAssemblyReference.cache
+D:\Users\Zevi\labs\qaDemo\obj\Debug\netcoreapp3.1\AspNetMaker2020.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Zevi\labs\qaDemo\obj\Debug\netcoreapp3.1\AspNetMaker2020.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Zevi\labs\qaDemo\obj\Debug\netcoreapp3.1\project1.RazorAssemblyInfo.cache
+D:\Users\Zevi\labs\qaDemo\obj\Debug\netcoreapp3.1\project1.RazorAssemblyInfo.cs
+D:\Users\Zevi\labs\qaDemo\obj\Debug\netcoreapp3.1\project1.AssemblyInfoInputs.cache
+D:\Users\Zevi\labs\qaDemo\obj\Debug\netcoreapp3.1\project1.AssemblyInfo.cs
